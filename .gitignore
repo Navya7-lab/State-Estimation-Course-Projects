@@ -1,0 +1,12 @@
+# MATLAB/Simulink build artifacts
+slprj/
+*.slxc
+*.r2019b
+*.autosave
+blockdiagram.xml
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mex*
+sl_cache/
